@@ -1,1 +1,2 @@
-console.log("hej");
+// Adding a comment
+console.log("j");
